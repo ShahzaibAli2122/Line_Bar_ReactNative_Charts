@@ -140,20 +140,20 @@
 //   ],
 // };
 
-const chartConfig = {
-  fillShadowGradient: '#fffff', // Gradient shade of fill color
-  fillShadowGradientOpacity: 1,
-  backgroundGradientFrom: '#fff',
-  backgroundGradientTo: '#fff',
-  decimalPlaces: 2,
-  color: (opacity = 10) => `rgba(0, 175, 239, 1) ${opacity})`,
-  labelColor: (opacity = 1) => `rgba(0, 0, 0, ${opacity})`,
-  barPercentage: 0.7,
-  barRadius: 4, // Adjust the radius of the bar corners
-  propsForDots: {
-    r: '6',
-    strokeWidth: '2',
-    stroke: "#ffa726"
+// const chartConfig = {
+//   fillShadowGradient: '#fffff', // Gradient shade of fill color
+//   fillShadowGradientOpacity: 1,
+//   backgroundGradientFrom: '#fff',
+//   backgroundGradientTo: '#fff',
+//   decimalPlaces: 2,
+//   color: (opacity = 10) => `rgba(0, 175, 239, 1) ${opacity})`,
+//   labelColor: (opacity = 1) => `rgba(0, 0, 0, ${opacity})`,
+//   barPercentage: 0.7,
+//   barRadius: 4, // Adjust the radius of the bar corners
+//   propsForDots: {
+//     r: '6',
+//     strokeWidth: '2',
+//     stroke: "#ffa726"
 //   }
 
 // };
