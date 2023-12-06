@@ -197,10 +197,10 @@ const App = () => {
 
     <View>
       <Charts />
-      <View style={{marginTop: 50}}>
+      <View style={{marginTop: 24}}>
         <LineCharts />
       </View>
-      <View style={{marginTop: 50}}>
+      <View style={{marginTop: 24}}>
       <BarCharts />
       </View>
     </View>
