@@ -201,6 +201,10 @@ const App = () => {
         <LineCharts />
       </View>
       <View style={{marginTop: 50}}>
+
+
+        <><textarea name="" id="" cols="30" rows="10"></textarea></>
+        <><figure></figure></>
       <BarCharts />
       </View>
     </View>
