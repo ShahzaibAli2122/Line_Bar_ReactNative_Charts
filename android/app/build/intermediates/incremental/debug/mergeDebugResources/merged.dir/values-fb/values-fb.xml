@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string gender="unknown" name="alert_description">[Alert#f230077c00a8397fcc7138dfd8b37405:1]</string>
+    <string gender="unknown" name="catalyst_dev_menu_header">[React Native Dev Menu (%1$s)#f560753940a8856cdc2de8717c0295df:1]</string>
+    <string gender="unknown" name="catalyst_dev_menu_sub_header">[Running %1$s#c566f94d6bbe163799a3235b4b55f9d1:1]</string>
+    <string gender="unknown" name="combobox_description">[Combo Box#c399e5a30d2d764efcced424465cacc4:1]</string>
+    <string gender="unknown" name="header_description">[Heading#03d19d231fd31bc5dae409f337e4fea3:1]</string>
+    <string gender="unknown" name="image_description">[Image#d8aa55c15c7118a635092b092bcf1d33:1]</string>
+    <string gender="unknown" name="imagebutton_description">[Button, Image#2b5b423bf3daff8f8b188f5d5733ec14:1]</string>
+    <string gender="unknown" name="link_description">[Link#a31d26668a679e44a0843994a6744274:1]</string>
+    <string gender="unknown" name="menu_description">[Menu#a2c49a9b7c94c31d6f53f5f59329a558:1]</string>
+    <string gender="unknown" name="menubar_description">[Menu Bar#9ede63b4972815fe4810781f1f15770c:1]</string>
+    <string gender="unknown" name="menuitem_description">[Menu Item#ba3a1d642e7bfae7a60f57181ff5a91f:1]</string>
+    <string gender="unknown" name="progressbar_description">[Progress Bar#fc1ee5dacc16eb35a88ca3aff9355683:1]</string>
+    <string gender="unknown" name="radiogroup_description">[Radio Group#382586bc34074311334bc929c63f69e4:1]</string>
+    <string gender="unknown" name="rn_tab_description">[Tab#60c56bd22945b4d1532f474bfc568a66:1]</string>
+    <string gender="unknown" name="scrollbar_description">[Scroll Bar#8c5cb8c1bbbac0ed64bb63c240b9a415:1]</string>
+    <string gender="unknown" name="spinbutton_description">[Spin Button#8af18737c08f4adab8e7103876d29955:1]</string>
+    <string gender="unknown" name="state_busy_description">[busy#c38a44fbc4bbf985a9e846c05e60b947:1]</string>
+    <string gender="unknown" name="state_collapsed_description">[collapsed#850739bd3f1cb1a9b82c3a6f68399233:1]</string>
+    <string gender="unknown" name="state_expanded_description">[expanded#45ee23081f04143c5be90131a7b0e3c5:1]</string>
+    <string gender="unknown" name="state_mixed_description">[mixed#30d19e1c3c088ba70e30538143bad3a8:1]</string>
+    <string gender="unknown" name="state_off_description">[off#f1ca5b210c9adef0fe7f14fe85ba521d:1]</string>
+    <string gender="unknown" name="state_on_description">[on#86ddae449e2a1cb3b1fc5fed82bfc660:1]</string>
+    <string gender="unknown" name="state_unselected_description">[unselected#815cb61a1bc6c57ed0a65707d8c0c2d2:1]</string>
+    <string gender="unknown" name="summary_description">[Summary#12f17d5316cde76d270ad4534e1d9f35:1]</string>
+    <string gender="unknown" name="tablist_description">[Tab List#8daaf7f9316191f0e35f3ba31ed11aec:1]</string>
+    <string gender="unknown" name="timer_description">[Timer#2f3aa4d3a05064a96945540d06072632:1]</string>
+    <string gender="unknown" name="toolbar_description">[Tool Bar#13851684ac57a6612b478471e4894082:1]</string>
+</resources>

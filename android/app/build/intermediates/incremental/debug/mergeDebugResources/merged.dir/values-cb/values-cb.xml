@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string gender="unknown" name="combobox_description">خشتەی دیاریکردن</string>
+    <string gender="unknown" name="image_description">وێنە</string>
+    <string gender="unknown" name="imagebutton_description">دوگمە، وێنە</string>
+    <string gender="unknown" name="link_description">بەستەر</string>
+    <string gender="unknown" name="menu_description">پێڕست</string>
+    <string gender="unknown" name="state_off_description">کوژاندنەوە</string>
+    <string gender="unknown" name="state_on_description">کارا</string>
+</resources>

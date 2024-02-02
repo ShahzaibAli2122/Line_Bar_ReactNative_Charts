@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string gender="unknown" name="catalyst_dev_menu_header">React Native Dev Menu (%1$s)\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@</string>
+    <string gender="unknown" name="catalyst_dev_menu_sub_header">Running %1$s\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@\@</string>
+    <string gender="unknown" name="combobox_description">Combo Box \@\@\@</string>
+    <string gender="unknown" name="header_description">Heading \@\@\@ \@\@\@</string>
+    <string gender="unknown" name="image_description">Image \@\@\@</string>
+    <string gender="unknown" name="imagebutton_description">Button, Image\@\@\@\@\@\@</string>
+    <string gender="unknown" name="menu_description">Menu \@\@\@</string>
+    <string gender="unknown" name="menubar_description">Menu Bar \@\@\@</string>
+    <string gender="unknown" name="menuitem_description">Menu Item\@\@\@\@\@\@</string>
+    <string gender="unknown" name="progressbar_description">Progress Bar\@\@\@\@\@\@</string>
+    <string gender="unknown" name="radiogroup_description">Radio Group\@\@\@\@\@\@\@\@\@</string>
+    <string gender="unknown" name="scrollbar_description">Scroll Bar\@\@\@\@\@\@\@\@\@</string>
+    <string gender="unknown" name="spinbutton_description">Spin Button \@\@\@ \@\@\@</string>
+    <string gender="unknown" name="state_collapsed_description">collapsed \@\@\@ \@\@\@ \@\@\@</string>
+    <string gender="unknown" name="state_expanded_description">expanded \@\@\@ \@\@\@</string>
+    <string gender="unknown" name="state_mixed_description">mixed\@\@\@</string>
+    <string gender="unknown" name="state_off_description">off \@\@\@</string>
+    <string gender="unknown" name="state_unselected_description">unselected\@\@\@</string>
+    <string gender="unknown" name="summary_description">Summary\@\@\@\@\@\@</string>
+    <string gender="unknown" name="tablist_description">Tab List\@\@\@</string>
+    <string gender="unknown" name="timer_description">Timer \@\@\@</string>
+    <string gender="unknown" name="toolbar_description">Tool Bar\@\@\@\@\@\@</string>
+</resources>
