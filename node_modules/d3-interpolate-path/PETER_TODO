@@ -1,0 +1,70 @@
+- path points and path values for default interpolation
+
+
+
+-----------
+1--------2--------3--------4
+1--------2
+
+1--------X--------X--------2
+
+2 -> 4
+
+2 numbers between 0 to 3
+
+2 / 4
+0, 0.5, 1, 1.5 (2/4 increments starting at 0)
+0, 1, 1, 2 (ceiling)
+0, 0, 1, 1 (floor)
+0, 1, 1, 2 (round)
+
+0.5, 1, 1.5, 2 (2/4 increments starting at 0.5)
+1, 1, 2, 2 (ceiling)
+0, 1, 1, 2 (floor)
+1, 1, 2, 2 (round)
+
+~~
+4 points -> 1 point maps to final vertex. so 3 points into 1 segment
+0, 0.33, 0.66, *1
+
+==> 0-1, 0-1, 0-1, *1
+
+====
+
+1--------2--------3--------4
+1--------2--------3
+
+1--------2--------X--------3
+OR
+1--------X--------2--------3
+
+3 -> 4
+where to put in ?
+1 number between 0 to 3
+
+3 / 2 == 1.5
+
+0, 1, 2, 3
+
+0, 1, 2
+0, 1.3, 2.6, 4
+
+
+0.75, 1.5, 2.25, 3 (3/4 increments starting at 0.75)
+1, 2, 3, 3 (ceiling)
+0, 1, 2, 3 (floor)
+1, 2, 2, 3 (round)
+
+0, 0.75, 1.5, 2.25 (3/4 increments starting at 0)
+0, 1, 2, 3 (ceiling)
+0, 0, 1, 2 (floor)
+0, 1, 2, 2 (round)
+
+
+~~
+4 points -> 1 point maps to final vertex. so 3 points into 2 segments
+0, 0.66, 1.33, *2
+==> 0-1, 0-1, 1-2, *2
+
+
+====
